@@ -10,19 +10,19 @@
     "monthly": {
       "name": "Monthly Plan",
       "duration": "1 Month",
-      "price": "$15",
+      "price": "$16",
       "days": 30
     },
     "halfyear": {
       "name": "6-Month Plan",
       "duration": "6 Months",
-      "price": "$29",
+      "price": "$30",
       "days": 180
     },
     "annual": {
       "name": "Annual Plan",
       "duration": "1 Year",
-      "price": "$49",
+      "price": "$50",
       "days": 365
     }
   },
