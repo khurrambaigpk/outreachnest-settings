@@ -3,9 +3,9 @@
   "plans": {
     "trial7": {
       "name": "Free Trial",
-      "duration": "1 Day",
+      "duration": "3 Day",
       "price": "FREE",
-      "days": 1
+      "days": 3
     },
     "monthly": {
       "name": "Monthly Plan",
