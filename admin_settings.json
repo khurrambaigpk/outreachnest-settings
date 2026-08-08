@@ -1,0 +1,46 @@
+{
+  "admin_password_hash": "0b983424082f24d5dff79e610f717cb8c9b39423706fbbcc083a35843e14b18a",
+  "plans": {
+    "trial7": {
+      "name": "Free Trial",
+      "duration": "1 Day",
+      "price": "FREE",
+      "days": 1
+    },
+    "monthly": {
+      "name": "Monthly Plan",
+      "duration": "1 Month",
+      "price": "$15",
+      "days": 30
+    },
+    "halfyear": {
+      "name": "6-Month Plan",
+      "duration": "6 Months",
+      "price": "$29",
+      "days": 180
+    },
+    "annual": {
+      "name": "Annual Plan",
+      "duration": "1 Year",
+      "price": "$49",
+      "days": 365
+    }
+  },
+  "payment": {
+    "account_title": "Mariyam Riaz",
+    "bank_name": "Allied Bank",
+    "iban": "PK48ABPA0010101916170010",
+    "account_no": "10650010101916170010",
+    "branch_code": "1065",
+    "jazzcash_number": "03317319333",
+    "jazzcash_name": "Mariyam Riaz",
+    "whatsapp": "03006321406",
+    "email": "queries@getoutreachnest.com",
+    "website": "https://www.getoutreachnest.com"
+  },
+  "annual_discount_label": "SAVE 16%",
+  "niche_active_profile": "Solar Sites",
+  "niche_profiles": "{\n  \"Solar Sites\": {\n    \"sheet_name\": \"Solar Sites\",\n    \"default_query\": \"solar energy\",\n    \"keyword_presets\": \"write for us, guest post, submit article\",\n    \"country\": \"United States\",\n    \"browser_sheet_url\": \"\",\n    \"categories\": [\n      \"Solar Blog\",\n      \"Solar Installer\",\n      \"Solar Inverter Repair\",\n      \"UPS / Battery Backup\",\n      \"Solar Distributor\",\n      \"Solar Manufacturer\",\n      \"Solar Energy Consultant\",\n      \"Guest Post Solar Site\"\n    ],\n    \"email_subject\": \"\",\n    \"email_body\": \"\"\n  },\n  \"Electrical Contractors\": {\n    \"sheet_name\": \"Electrical Contractors\",\n    \"default_query\": \"electrical contractor\",\n    \"keyword_presets\": \"contact, email\",\n    \"country\": \"United States\",\n    \"browser_sheet_url\": \"\",\n    \"categories\": [\n      \"Residential Electrician\",\n      \"Commercial Electrician\",\n      \"Electrical Contractor\",\n      \"Panel Builder\",\n      \"Industrial Electrician\",\n      \"Electrical Maintenance\",\n      \"Wiring Contractor\",\n      \"Emergency Electrician\"\n    ],\n    \"email_subject\": \"\",\n    \"email_body\": \"\"\n  },\n  \"Electronics Repair\": {\n    \"sheet_name\": \"Electronics Repair\",\n    \"default_query\": \"electronics repair\",\n    \"keyword_presets\": \"contact, email\",\n    \"country\": \"United States\",\n    \"browser_sheet_url\": \"\",\n    \"categories\": [\n      \"Appliance Repair\",\n      \"TV Repair\",\n      \"Laptop Repair\",\n      \"Mobile Repair\",\n      \"UPS Repair\",\n      \"Inverter Repair\",\n      \"CCTV Repair\",\n      \"Electronics Parts Supplier\"\n    ],\n    \"email_subject\": \"\",\n    \"email_body\": \"\"\n  },\n  \"Industrial Automation\": {\n    \"sheet_name\": \"Industrial Automation\",\n    \"default_query\": \"industrial automation\",\n    \"keyword_presets\": \"contact, email\",\n    \"country\": \"United States\",\n    \"browser_sheet_url\": \"\",\n    \"categories\": [\n      \"PLC Automation\",\n      \"SCADA Company\",\n      \"Instrumentation\",\n      \"Calibration Service\",\n      \"Lab Equipment Repair\",\n      \"Electrical Control Panel\",\n      \"Industrial Maintenance\",\n      \"Sensor Supplier\"\n    ],\n    \"email_subject\": \"\",\n    \"email_body\": \"\"\n  },\n  \"Fashion\": {\n    \"sheet_name\": \"Fashion\",\n    \"default_query\": \"fashion blog\",\n    \"keyword_presets\": \"write for us, guest post\",\n    \"country\": \"United States\",\n    \"browser_sheet_url\": \"\",\n    \"categories\": [\n      \"Fashion Blog\",\n      \"Clothing Brand\",\n      \"Fashion Magazine\",\n      \"Style Influencer\",\n      \"Fashion Guest Post Site\",\n      \"Apparel Retailer\",\n      \"Accessories Brand\",\n      \"Beauty & Fashion\"\n    ],\n    \"email_subject\": \"\",\n    \"email_body\": \"\"\n  }\n}",
+  "sheet_header_bg_color": "#008000",
+  "sheet_header_fg_color": "#FFFFFF"
+}
