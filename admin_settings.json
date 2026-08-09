@@ -3,26 +3,26 @@
   "plans": {
     "trial7": {
       "name": "Free Trial",
-      "duration": "1 Day",
+      "duration": "3 Days",
       "price": "FREE",
-      "days": 1
+      "days": 3
     },
     "monthly": {
       "name": "Monthly Plan",
       "duration": "1 Month",
-      "price": "$16",
+      "price": "$15",
       "days": 30
     },
     "halfyear": {
       "name": "6-Month Plan",
       "duration": "6 Months",
-      "price": "$30",
+      "price": "$29",
       "days": 180
     },
     "annual": {
       "name": "Annual Plan",
       "duration": "1 Year",
-      "price": "$50",
+      "price": "$49",
       "days": 365
     }
   },
